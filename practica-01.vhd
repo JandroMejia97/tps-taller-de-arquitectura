@@ -9,7 +9,7 @@ END simple;
 
 ARCHITECTURE prueba OF simple IS
     CONSTANT mensaje: String := "hola, mundo";
-    SIGNAL canal: Character := ‘ ‘;
+    SIGNAL canal: Character := ' ';
 BEGIN
     p1: PROCESS
         BEGIN
@@ -30,7 +30,7 @@ END simple;
 
 ARCHITECTURE prueba OF simple IS
     CONSTANT mensaje: String := "hola, mundo";
-    SIGNAL canal: Character := ‘ ‘;
+    SIGNAL canal: Character := ' ';
 BEGIN
     p1: PROCESS
     variable linea: line;
