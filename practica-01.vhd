@@ -1,8 +1,8 @@
-# Ejercicio 1
-# Editar un archivo de texto: simple. vhd con el siguiente prog
-# a) Compilar
-# b) Simular
-# c) Analizar resultados
+-- Ejercicio 1
+-- Editar un archivo de texto: simple. vhd con el siguiente prog
+-- a) Compilar
+-- b) Simular
+-- c) Analizar resultados
 
 ENTITY simple IS
 END simple;
@@ -21,8 +21,8 @@ BEGIN
         END PROCESS;	
 END prueba;
 
-# Ejercicio 2
-# Modificar el anterior -agregando lo subrayado- y repetir items a), b) y c):
+-- Ejercicio 2
+-- Modificar el anterior -agregando lo subrayado- y repetir items a), b) y c):
 
 USE std.textio.all;
 ENTITY simple IS
